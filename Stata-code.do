@@ -1,9 +1,9 @@
 /******************************************************************************/
-/* Title: How much does route to diagnosis explain comorbidity 		            */
-/*					inequalities in survival of patients with Diffuse Large           */
-/*					B-cell lymphoma or Follicular Lymphoma                            */
+/* Title: How much does route to diagnosis explain comorbidity 		      */
+/*		inequalities in survival of patients with Diffuse Large       */
+/*		B-cell lymphoma or Follicular Lymphoma                        */
 /* Authors: Matthew J. Smith, Miguel Angel Luque Fernandez                    */
-/* Date: 29-04-2021															                              */
+/* Date: 29-04-2021				                              */
 /******************************************************************************/
 
 /* Preliminaries */
