@@ -1,7 +1,7 @@
 /******************************************************************************/
 /* Title: Mediating effects of diagnostic route on the comorbidity gap in     */
-			survival of patients with Diffuse Large B-cell or     */
-			Follicular lymphoma in England			      */
+/*			survival of patients with Diffuse Large B-cell or     */
+/*			Follicular lymphoma in England			      */
 /* Authors: Matthew J. Smith, Miguel Angel Luque Fernandez                    */
 /* Date: 29-04-2021				                              */
 /******************************************************************************/
